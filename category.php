@@ -19,6 +19,7 @@ $page='category';
   <div style=" width: 70%; margin-left: 25%; margin-top: 10%">
   	    <div class="text-right">
   	    <a   class="btn btn-primary" href="addcaegory.php">Add Category</a> 
+          
   	    	
    </div>
     <table class="table table-bordered">
